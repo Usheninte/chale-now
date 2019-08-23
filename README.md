@@ -33,7 +33,7 @@ MEST 2020 | Buy, Bet &amp; Barter
 ---
 
 Target: [900c]
-Height: [4500c]
+Good: [4500c]
 
 ---
 
