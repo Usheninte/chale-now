@@ -2,7 +2,8 @@
 
 MEST 2020 | Buy, Bet &amp; Barter
 
-- [Link](https://github.com/Usheninte/chale-now)
+- [Github Link](https://github.com/Usheninte/chale-now)
+- [Demo Website](https://chale-options.netlify.com/)
 
 ---
 
