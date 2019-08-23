@@ -1,6 +1,6 @@
 | Name          | Email Address     |
 | ------------- | ----------------- |
-| Mrs Ukachukwu | ukfluxy@gmail.com |
+| Mrs Ukachukwu | ukfloxy@gmail.com |
 
 ---
 
