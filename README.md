@@ -13,6 +13,22 @@ MEST 2020 | Buy, Bet &amp; Barter
 
 - Dimension = Platform
 - Phantom = Options, Main
+  <!-- Professional -->
+- Paradigm Shift = Prof 1
+- Ethereal = Prof 2
+- Highlights = Prof 3
+  <!-- Creatives -->
+- Lens = Create 1
+- Strata = Create 2
+  <!-- Startup -->
+- Fractal = Biz 1
+- Landed = Biz 2
+- Alpha = Biz 3
+- Verti = Biz 4
+  <!-- Company -->
+- Future Imperfect = SME 1
+- Minimaxing = SME 2
+- Zerofour = SME 3
 
 ---
 
